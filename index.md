@@ -66,5 +66,18 @@ This locks the king on top for a while even when king is traversing to the left 
 
 ### Winning middle games
 
+White to play after 1. .. Re8:
+
+![alt text](image-6.png)
+
+1. .. Re8
+2. 
+
+White to play:
+![alt text](image-9.png)
+
+WHite to play:    
+![alt text](image-7.png)
+
 
 
