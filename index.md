@@ -40,12 +40,29 @@ Winning move here is Ke4 because it supports both the pawn before proceding towa
 
 White to play:
 ![alt text](image-8.png)
-
+1. f5 Ke7   
+2. Ke5 Kf7
+3. g5 Ke7
+4. h5 g6  
+5. hxg6 hxg6
+6. f6+     
+     
+In this ending white can win by advancing any one of the pawns.
 
 
 White to play:
-![alt text](image-7.png)
+![alt text](image-2.png)
+1. g4 a5 (Usually advisable to move the pawn that is free from opposition)
+2. a4 Kf6
+3. h4 Ke6
+4. g5 Kf7
+5. Kf5 Kg7
+6. h5 Kf7
+7. Ke5   (push King to left side to win black pawn)     
 
+This locks the king on top for a while even when king is traversing to the left side of the board.
+
+![alt text](image-3.png)
 
 ### Winning middle games
 
