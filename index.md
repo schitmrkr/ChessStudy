@@ -70,14 +70,38 @@ White to play after 1. .. Re8:
 
 ![alt text](image-6.png)
 
-1. .. Re8
-2. 
+1. .. Re8 (Attacks and threatens checkmate)
+There are couple of obvious moves to defend this. Qg3 or Bc3 seem like a good moves to defend but there is a forced checkmate missing from the view. That move is     
+2. Qxh7 Kxh7
+3. Rh3 Kg8
+4. Rh8#       
+This teaches us to look for bold attack strategies even when you feel like playing defensive instinctively.    
 
 White to play:
 ![alt text](image-9.png)
+The previous strategy of Qxh7 doesn't work here because the sequence follows: 1. Qxh7 Kxh7 2. Rh3 Kg8. This does not work because Kd4 blocks Bb2 from delevering checkmate. If white takes Kxc6, black can play f6 defending against the threat.     
+So white must take Nxc6, the bishop cannot take it because there is threat of forced checkmate Qxh7. Here black plays Bg5. The sequence follows:    
+1. Nxc6 Bg5
+2. Ne7+ Qxe7 (if black plays Bxe3, the Qxh7 sequence leads to a check mate)
+3. Rxe7 Bxe7
+4. Qd7 ..    
+This leads to a situation where either one of bishop is guarenteed to be taken. This puts white in a significant advantage. These example show the dangers of advancing g-pawn one square after casteling to the king side.    
 
-WHite to play:    
+White to play:    
 ![alt text](image-7.png)
 
 
+White to play:
+![alt text](image-10.png)
+Here there is a move that forces white to a better position. The sequence follows:    
+1. Bxh7 Kxh7
+2. Qh5 Kg8
+3. Ng5 Qe4 (This forces the black to sacrifice its queen to prevent checkmate.)
+4. Nxe4 ...   
+
+White to play:
+![alt text](image-11.png)
+
+White to play:
+![alt text](image-12.png)
 
