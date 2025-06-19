@@ -84,11 +84,15 @@ So white must take Nxc6, the bishop cannot take it because there is threat of fo
 1. Nxc6 Bg5
 2. Ne7+ Qxe7 (if black plays Bxe3, the Qxh7 sequence leads to a check mate)
 3. Rxe7 Bxe7
-4. Qd7 ..    
+4. Qd7 ..   
 This leads to a situation where either one of bishop is guarenteed to be taken. This puts white in a significant advantage. These example show the dangers of advancing g-pawn one square after casteling to the king side.    
 
 White to play:    
 ![alt text](image-7.png)
+There is a simple forced checkmate here: 1. Kf6+ ..
+1. Kf6+ gxf6
+2. Qg3 Kg8
+3. Bxf6#
 
 
 White to play:
@@ -101,7 +105,20 @@ Here there is a move that forces white to a better position. The sequence follow
 
 White to play:
 ![alt text](image-11.png)
+This is one of the common sequence pattern that is kind of semi forced. 
+1. bxd7 Qxd7
+2. Kf6 gxf6
+3. Rg3+ Kh8
+4. Bxf6#
 
 White to play:
 ![alt text](image-12.png)
+1. Bxh7 Kxh7
+2. Qh5+ Kg8
+3. Ng5 Qe4 (Here black is forced to move Qe4 because there is no other way to stop checkmate)
+4. Nxe4 
+
+
+White to play:
+![alt text](image-13.png)
 
