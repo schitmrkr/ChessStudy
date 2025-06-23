@@ -122,3 +122,50 @@ White to play:
 White to play:
 ![alt text](image-13.png)
 
+
+
+### Relative Value of Pieces
+
+For all general theoretical purposes, the bishop and knight is considered to have equal value. But in some cases knights are better and in relatively more cases bishops are better. The bishop will be stronger against pawns than knights. In combination with pawns will also be stronger against the Rook than the Knight will be.    
+
+A bishop and a rook are also stronger than a knight and a rook, but a queen and a knight may be stronger than a queen and a bishop.    
+
+A bishop will often be worth more than three pawns but a knight very seldom so. 
+
+A rook will be worth a Knight and two pawns, or a bishop and two pawns, but as said before, the bishop will be a better piece against a rook.    
+
+Two rooks are slightly stronger than a queen. They are slightly weaker than two knights and a bishop. They are slightly weaker than two Knights and a Bishop, and a little more so than two Bishops and a Knight.    
+
+The power of the Knight decreases as the pieces are
+changed off. The power of the Rook, on the contrary,
+increases.    
+
+The king pure becomes defensive during the middlegame. However, the handling of the king becomes of paramount importance once the endgame stage is reached.     
+
+
+### General Strategy of the Opening
+
+The main thing is to develop pieces quickly. Playing 1. e4 or d4 opens up the line for the queen and a bishop so must be theoritically the best move since no other moves accomplish this. 
+
+1. e4 e5
+2. Nf3 .. (Now black can reply with either identical move or respond with) .. Nc6
+3. Nc3 Nf6 (These are for purely developing nature.)
+4. Bb5 .. (It is advisable that not to bring this bishop out until one of the knight is out, preferablly king's knigh. Bc4 was also possible but it is generally better to develop a piece with an attack) .. B4 (Black threatening with similar line of attck)
+5. O-O .. (An indirect approach of preventing Bxc3) .. O-O (Black following similar line of reasoning)
+6. d3 d6 (This move has two fold object, viz, to protect the e pawn and open the diagonal for the development of queen's bishop)
+7. Bg5 (This brings us very close to the middle game, a very powerful move as there is already in view a combination to win quickly by Nd5, there is a long analysis that black loses if black plays Bg4) Bxc3 (Black is forced to take this capture)  
+
+![alt text](image-14.png)
+
+This brings to light three things:    
+**First**, the complete development of the opening has taken only seven moves. As a rule eight moves should be more than enough.     
+**Second**, black has been forced to exchange bishop for the knight but as compensation he has isolated white's pawn and doubled a pawn. This, at this early stage of the game, is advantageous for white since the pawn is doubled towards the center of the board.     
+**Third**, white by the exchange brings up a pawn to control the square d4, puts the black on defensive, as experience will show.
+
+Before the development has been completed no piece should be moved more than once, unless it is essential in order to obtain material advantage or to secure freedom of action.
+
+
+### Control of the Centre
+
+
+
