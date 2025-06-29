@@ -167,5 +167,34 @@ Before the development has been completed no piece should be moved more than onc
 
 ### Control of the Centre
 
+The d4, d4, e4 and e5 are the center squares, and control of these squares is called the control of the center. No violent attack can succeed without controlling at least two of these squares, and possibly three. 
+
+![alt text](image-15.png)
+
+1. e4 e5
+2. Nf3 d6 (A timid move as black assumes defensive attitude. On principle the move is wrong.)
+3. d4 .. (White takes offensive immediately and strives to control the center) .. Nd7 (More natural move for knight would be Nc6, but Nd7 was played which is in principle wrong.) 
+4. Bc4 h6 (Black is forced to pay penalty of his previous moves.)
+5. Nc3 Ngf6
+6. Be3 Be7
+7. Qe2 .. (White does not castle first as he wants to deploy his forces first. White also threatens Rd1 with this move) .. c6
+8. Rd1 Qc7
+9. O-O ..  (With this last move the white completes its development while black is somewhat hampered. White is better here positionally.)
+
+### Control of the Centre
+
+![alt text](image-16.png)
+
+1. e4 e5
+2. Nf3 d6
+3. d4 Bg4 (A bad move, which violates one of the principles set down to develop atleast a knight before bishops are brought out. And in early games, exchanging bishop for knight is bad idea unless there is a compensation.)
+4. dxe5 Bxf3 (4. .. dxe5 loses a pawn)
+5. Qxf3 dxe5
+6. Bc4 Qf6 (If 6. .. Nf6 1. Qb3 wins a pawn)
+7. Qb3 b6
+8. Nc3 c6 (To prevent 9. Nd5. Black, however, has no pieces except his queen, and white, with a bishop and a knight already in development and has chance of gaining advantage quickly by playing Nd5 anyway)
+
+
+### Opening Traps
 
 
