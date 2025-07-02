@@ -197,4 +197,79 @@ The d4, d4, e4 and e5 are the center squares, and control of these squares is ca
 
 ### Opening Traps
 
+![alt text](image-17.png)
+
+1. dxe5 Nxe5 (Black should have captured this with a pawn)
+2. Nxe5 Bxd1
+3. Bxf7+ Ke7
+4. Nd5#
+
+### Opening Traps
+
+Black to play:
+
+![alt text](image-19.png)
+
+1. .. Nf6 (Here black should have played e6)
+2. Bxf7+ Kxf7
+3. Ne5+ Kg8
+4. Nxg4
+
+This wins white a pawn besides having a better position.
+
+
+
+### Endgame principles
+
+#### A cardinal principle
+
+![alt text](image-18.png)
+
+1. a4 a5
+2. Kg2 Kf4 (This is the best move from black)
+3. b4 .. (b4 is the best) .. axb4
+4. a5 b3
+5. a6 b2
+6. a7 b1Q
+7. a8Q Qe4+
+8. Qxe4+ Kxe4 (Here black is winning)
+
+In this case white can draw by playing 1. b4 (advance the pawn that is free from opposition). 
+
+#### A classical ending
+
+![alt text](image-20.png)
+
+1. b6 axb6
+2. c6 bxc6 (if 1, .. cxb6, then 2. a6)
+3. a6 (here the black is nearer to queen so white wins)
+
+#### Which pawn queens first?
+
+![alt text](image-21.png)
+
+1. a4 h5
+2. a5 h4
+3. b6 axb6 (white can take the pawn but if he does so when he queens he will not command the square where black will also queen his pawn)
+4. a6 h3
+5. a7 h2
+6. a8Q (wins the game)
+
+#### The oposition
+
+![alt text](image-22.png)
+
+1. Kd4 Kd6 
+
+
+![alt text](image-23.png)
+
+
+### Planning a win in middlegames
+
+
+
+
+
+
 
